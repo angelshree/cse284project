@@ -10,3 +10,12 @@ This repository contains the following scripts/notebooks:
  - run_structure.sh : This script converts the 1000 Genomes input vcf.gz files into STRUCTURE format, as both tools require different input formats. Following this step, STRUCTURE is run on the population cohort. (not yet added)
  - run_admixture.sh : This script runs the ADMIXTURE program on the cohort. (not yet added)
  - analysis.ipynb : This notebook contains all visualizations and downstream analysis (not yet added)
+
+## Notes
+to install fastSTRUCTURE (the version of STRUCTURE we used in this analysis), view the instructions here: https://rajanil.github.io/fastStructure/
+
+## Links
+
+- ADMIXTURE tool page: https://dalexander.github.io/admixture/
+- fastSTRUCTURE tool page (with install instructions): https://rajanil.github.io/fastStructure/
+- 1000 Genomes webpage: https://www.internationalgenome.org/
