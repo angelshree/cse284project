@@ -1,0 +1,43 @@
+chr10.pruned
+chr11.pruned
+chr12.pruned
+chr13.pruned
+chr14.pruned
+chr15.pruned
+chr16.pruned
+chr17.pruned
+chr18.pruned
+chr19.pruned
+chr1.pruned
+chr20.pruned
+chr21.pruned
+chr22.pruned
+chr2.pruned
+chr3.pruned
+chr4.pruned
+chr5.pruned
+chr6.pruned
+chr7.pruned
+chr8.pruned
+chr9.pruned
+admixture_out/chr9.pruned.bed admixture_out/chr9.pruned.bim admixture_out/chr9.pruned.fam
+admixture_out/chr9.pruned.bed admixture_out/chr9.pruned.bim admixture_out/chr9.pruned.fam
+admixture_out/chr9.pruned.bed admixture_out/chr9.pruned.bim admixture_out/chr9.pruned.fam
+admixture_out/chr9.pruned.bed admixture_out/chr9.pruned.bim admixture_out/chr9.pruned.fam
+admixture_out/chr9.pruned.bed admixture_out/chr9.pruned.bim admixture_out/chr9.pruned.fam
+admixture_out/chr9.pruned.bed admixture_out/chr9.pruned.bim admixture_out/chr9.pruned.fam
+admixture_out/chr9.pruned.bed admixture_out/chr9.pruned.bim admixture_out/chr9.pruned.fam
+admixture_out/chr9.pruned.bed admixture_out/chr9.pruned.bim admixture_out/chr9.pruned.fam
+admixture_out/chr9.pruned.bed admixture_out/chr9.pruned.bim admixture_out/chr9.pruned.fam
+admixture_out/chr9.pruned.bed admixture_out/chr9.pruned.bim admixture_out/chr9.pruned.fam
+admixture_out/chr9.pruned.bed admixture_out/chr9.pruned.bim admixture_out/chr9.pruned.fam
+admixture_out/chr9.pruned.bed admixture_out/chr9.pruned.bim admixture_out/chr9.pruned.fam
+admixture_out/chr9.pruned.bed admixture_out/chr9.pruned.bim admixture_out/chr9.pruned.fam
+admixture_out/chr9.pruned.bed admixture_out/chr9.pruned.bim admixture_out/chr9.pruned.fam
+admixture_out/chr9.pruned.bed admixture_out/chr9.pruned.bim admixture_out/chr9.pruned.fam
+admixture_out/chr9.pruned.bed admixture_out/chr9.pruned.bim admixture_out/chr9.pruned.fam
+admixture_out/chr9.pruned.bed admixture_out/chr9.pruned.bim admixture_out/chr9.pruned.fam
+admixture_out/chr9.pruned.bed admixture_out/chr9.pruned.bim admixture_out/chr9.pruned.fam
+admixture_out/chr9.pruned.bed admixture_out/chr9.pruned.bim admixture_out/chr9.pruned.fam
+admixture_out/chr9.pruned.bed admixture_out/chr9.pruned.bim admixture_out/chr9.pruned.fam
+admixture_out/chr9.pruned.bed admixture_out/chr9.pruned.bim admixture_out/chr9.pruned.fam
