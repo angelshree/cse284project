@@ -10,7 +10,7 @@ This repository contains the following scripts/notebooks:
  - run_structure.sh : This script converts the 1000 Genomes input vcf.gz files into STRUCTURE format, as both tools require different input formats. Following this step, STRUCTURE is run on the population cohort. (not yet added)
  - run_admixture.sh : This script runs the ADMIXTURE program on the cohort. (not yet added)
  - K_vals.sh : This script contains the code to obtain the .P and .Q files for each K value analyzed
- - analysis.ipynb : This notebook contains all visualizations and downstream analysis (not yet added)
+ - Visualizations.ipynb : This notebook contains all visualizations and downstream analysis for chromosomes 1,2,3, and 4 at this time (3/7/24)
 
 ## Notes
 to install fastSTRUCTURE (the version of STRUCTURE we used in this analysis), view the instructions here: https://rajanil.github.io/fastStructure/
