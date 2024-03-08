@@ -20,3 +20,9 @@ to install fastSTRUCTURE (the version of STRUCTURE we used in this analysis), vi
 - ADMIXTURE tool page: https://dalexander.github.io/admixture/
 - fastSTRUCTURE tool page (with install instructions): https://rajanil.github.io/fastStructure/
 - 1000 Genomes webpage: https://www.internationalgenome.org/
+
+## Remaining Work
+
+- Finish running STRUCTURE on the dataset
+- fix vcf merging for multiple chromosomes
+- downsample to specific ancestries and compare
