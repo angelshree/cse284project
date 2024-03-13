@@ -16,7 +16,7 @@ This repository contains the following scripts/notebooks:
  - chr1.subjects.pruned.fam : This is the .fam file we used to match samples to our 1000 Genomes samples for creation of the population file
 
 ## Notes
-to install Structure_threader (the wrapper program used to run fastStructure), view the instructions here: https://github.com/StuntsPT/Structure_threader
+To read more on the documentation for Structure_threader (the wrapper program used to run fastStructure), view the details here: https://github.com/StuntsPT/Structure_threader
 
 ## Links
 
@@ -24,8 +24,3 @@ to install Structure_threader (the wrapper program used to run fastStructure), v
 - Structure_threader installation page: https://structure-threader.readthedocs.io/en/latest/install/
 - 1000 Genomes webpage: https://www.internationalgenome.org/
 
-## Remaining Work
-
-- Finish running STRUCTURE on the dataset
-- fix vcf merging for multiple chromosomes
-- downsample to specific ancestries and compare
