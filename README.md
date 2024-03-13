@@ -10,7 +10,8 @@ This repository contains the following scripts/notebooks:
  - run_structure.sh : This script converts the 1000 Genomes input vcf.gz files into STRUCTURE format, as both tools require different input formats. Following this step, STRUCTURE is run on the population cohort. (not yet added)
  - run_admixture.sh : This script runs the ADMIXTURE program on the cohort.
  - vcf_raws.txt : This text file contains the name of all the pruned chromosome vcfs
- - Visualizations.ipynb : This notebook contains all visualizations and downstream analysis for ADMIXTURE
+ - Visualizations_Admixture.ipynb : This notebook contains all visualizations and downstream analysis for ADMIXTURE
+ - Visualizations_fastStructure.ipynb : This notebook contains all visualizations and downstream analysis for fastStructure
  - create_structure_pop_file.py : This python script contains the code used to create the population file in the correct format for fastStructure
  - chr1.subjects.pruned.fam : This is the .fam file we used to match samples to our 1000 Genomes samples for creation of the population file
 
