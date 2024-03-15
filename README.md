@@ -2,7 +2,7 @@
  Varshini Sathish and Anjali Srinivasan
 
 ## Project Description
-In this project, we are comparing the population structure modeling tools ADMIXTURE and fastSTRUCTURE. ADMIXTURE, which was used in class, utilizes Maximum Likelihood Estimates to infer the population structure of a cohort. In contrast, fastSTRUCTURE implements a Bayesian approach. We are using the 1000Genomes dataset as our input to both tools, and will be comparing the results across all individuals in the cohort as well as a specific ancestry subset.
+In this project, we are comparing the population structure modeling tools ADMIXTURE and fastSTRUCTURE. ADMIXTURE, which was used in class, utilizes Maximum Likelihood Estimates to infer the population structure of a cohort. In contrast, fastSTRUCTURE implements a Bayesian approach. We are using phase 1 of the 1000Genomes dataset as our input to both tools and will be comparing the results across all individuals in the cohort as well as a specific ancestry subset.
 
 ## Repository Contents
 This repository contains the following scripts/notebooks:
@@ -26,4 +26,5 @@ To read more on the documentation for Structure_threader (the wrapper program us
 - ADMIXTURE software manual: https://dalexander.github.io/preprints/admixture-preprint.pdf
 - Structure_threader installation page: https://structure-threader.readthedocs.io/en/latest/install/
 - 1000 Genomes webpage: https://www.internationalgenome.org/
+- fastStructure tool page: https://rajanil.github.io/fastStructure/
 
